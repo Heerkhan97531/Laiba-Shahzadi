@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laiba Shahzadi</h1>
-<h3 align="center">I am an IT student passionate about building a career in "Cybersecurity", backed by a strong foundation in "Python" and a keen interest in integrating "AI" into modern development and security workflows. I love building things from scratch, breaking down complex concepts, and sharing my growth with the tech community.</h3>
+<h3 align="center">I am an IT student passionate about building a career in "Cybersecurity", backed by a strong foundation in "Python" and a keen interest in integrating "AI" into modern development and security workflows. I love building things from scratch, breaking down complex concepts, and sharing my growth with the tech community. I want to build my career in Cyber Security</h3>
 
 ---
 
